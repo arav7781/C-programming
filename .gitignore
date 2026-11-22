@@ -1,0 +1,5 @@
+# build outputs
+*.exe
+*.o
+*.out
+tempCodeRunnerFile.*
